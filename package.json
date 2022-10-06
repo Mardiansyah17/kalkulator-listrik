@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://mardiansyah17.github.io/kalkulator-listrik",
+  "homepage": "http://Mardiansyah17.github.io/kalkulator-listrik",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

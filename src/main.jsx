@@ -9,7 +9,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
   //   <App />
   // </React.StrictMode>
 
-  <BrowserRouter>
+  <BrowserRouter basename={"/kalkulator-listrik"}>
     <App />
   </BrowserRouter>
 );
